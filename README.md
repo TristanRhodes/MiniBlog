@@ -2,7 +2,7 @@
 
 A blogging engine based on HTML5 and ASP.NET.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/n78wm50a4a3odecb)](https://ci.appveyor.com/project/madskristensen/miniblog)
+[![Build status](https://ci.appveyor.com/api/projects/status/sohw2efqd877qcd2)](https://ci.appveyor.com/project/TristanRhodes/miniblog)
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
